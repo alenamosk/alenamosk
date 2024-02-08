@@ -37,4 +37,4 @@ Styling: Tailwind CSS, Shadcn.
 
 Take a look at the <a href="https://github.com/alenamosk/ExpiroShield">ExpiroShield repository</a>
 
-### 📬 Reach me on <a href="www.linkedin.com/in/alena-moskaeva">LinkedIn</a>
+### 📬 Reach me on <a href="https://linkedin.com/in/alena-moskaeva">LinkedIn</a>
