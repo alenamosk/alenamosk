@@ -35,4 +35,6 @@ Styling: Tailwind CSS, Shadcn.
 
 <img src="asset/ExpiroShield_homepage.png" style="width: 400px; height: 300px;">
 
-### 📬 Reach me at <a href="www.linkedin.com/in/alena-moskaeva">LinkedIn</a>&nbsp;&nbsp;&nbsp;&nbsp;
+Take a look at the <a href="https://github.com/alenamosk/ExpiroShield">ExpiroShield repository</a>
+
+### 📬 Reach me at <a href="www.linkedin.com/in/alena-moskaeva">LinkedIn</a>
