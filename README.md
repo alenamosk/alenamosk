@@ -28,7 +28,7 @@ Fresh off completing full-stack bootcamp, I'm diving into an exciting journey wh
 
 - **Responsive design:** Enjoy seamless usage on any device. The interface adapts to different screen sizes for a user-friendly experience across devices.
 
-**Tech Stack:**
+**Tech Stack:**<br>
 Frontend: Next.js, React, TypeScript.<br>
 Backend: Prisma ORM, Express.<br>
 Styling: Tailwind CSS, Shadcn.
@@ -37,4 +37,4 @@ Styling: Tailwind CSS, Shadcn.
 
 Take a look at the <a href="https://github.com/alenamosk/ExpiroShield">ExpiroShield repository</a>
 
-### 📬 Reach me at <a href="www.linkedin.com/in/alena-moskaeva">LinkedIn</a>
+### 📬 Reach me on <a href="www.linkedin.com/in/alena-moskaeva">LinkedIn</a>
