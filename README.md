@@ -33,7 +33,7 @@ Frontend: Next.js, React, TypeScript.<br>
 Backend: Prisma ORM, Express.<br>
 Styling: Tailwind CSS, Shadcn.
 
-**[Live Demo] (https://expiro-shield.vercel.app/)**
+**<a href="https://expiro-shield.vercel.app/">Live Demo</a>**
 
 <img src="asset/ExpiroShield_homepage.png" style="width: 400px; height: 300px;">
 
