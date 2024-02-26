@@ -33,6 +33,8 @@ Frontend: Next.js, React, TypeScript.<br>
 Backend: Prisma ORM, Express.<br>
 Styling: Tailwind CSS, Shadcn.
 
+**Live Demo**
+
 <img src="asset/ExpiroShield_homepage.png" style="width: 400px; height: 300px;">
 
 Take a look at the <a href="https://github.com/alenamosk/ExpiroShield">ExpiroShield repository</a>
